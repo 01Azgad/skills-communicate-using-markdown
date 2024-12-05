@@ -7,3 +7,6 @@ And I am beginning to learn more about how markdown works in github for organizi
 ```javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
