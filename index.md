@@ -1,3 +1,2 @@
 # This is a first Header
-## This is a second header
-### This is a third header
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
